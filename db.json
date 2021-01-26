@@ -1,0 +1,76 @@
+{
+	"meals": [
+		{
+			"id": 0,
+			"name": "Beef & Broccoli",
+			"description": "Beef and broccoli is a classic Chinese-American dish. The sauce calls for garlic, broth, soy sauce, lime juice, and Sriracha—ingredients.",
+			"ingredients": [
+				"2/3 c. low-sodium soy sauce",
+				"divided Juice of 1/2 lime",
+				"3 tbsp. packed brown sugar",
+				"divided 2 tbsp. cornstarch",
+				"divided Kosher salt",
+				"freshly ground black pepper",
+				"1 lb. sirloin steak, sliced thinly against grain",
+				"2 tbsp. vegetable oil",
+				"3 cloves garlic",
+				"minced 1/3 c. low-sodium beef (or chicken) broth",
+				"2 tsp. Sriracha (optional)",
+				"1 head broccoli cut into florets",
+				"sesame seeds",
+				"thinly sliced green onions"
+			],
+			"directions": [
+				{
+					"step-1": "In a medium bowl, whisk 1/3 cup soy sauce, lime juice, 1 tablespoon brown sugar, and 1 tablespoon cornstarch until combined. Add steak, season with salt and pepper, and toss until steak is coated. Marinate 20 minutes.",
+					"step-2": "In a large skillet over medium-high heat, heat oil. Add steak in a single layer, working in batches if needed, and cook until seared, about 2 minutes per side. Remove steak and set aside.",
+					"step-3": "Stir in garlic and cook until fragrant, about 1 minute. Stir in remaining 1 tablespoon cornstarch until garlic is coated, then stir in broth, remaining 2 tablespoons brown sugar, remaining 1/3 cup soy sauce, and Sriracha. Bring mixture to a simmer. Add broccoli and simmer until tender, about 5 minutes. Season sauce with salt and pepper (if necessary), then return steak to skillet.",
+					"step-4": "Garnish with sesame seeds and green onions before serving."
+				}
+			],
+			"yields": "4 servings",
+			"prep-time": "10 minutes",
+			"total-time": "40 minutes"
+		},
+		{
+			"id": 1,
+			"name": "Wonton Soup",
+			"description": "We turn to this quick and easy wonton soup over and over when temperatures start dropping. Not only does it come together in a flash, it's also super satisfying without weighing you down.",
+			"ingredients": [
+				{
+					"for the wontons": [
+						"2/3 lb. ground pork",
+						"2 tsp. soy sauce",
+						"2 tsp. Chives, thinly sliced",
+						"1 tsp. rice wine vinegar",
+						"1 tsp. cornstarch",
+						"1 tsp. grated ginger",
+						"1 garlic clove",
+						"1/2 tsp. crushed red pepper flakes",
+						"1/2 tsp. sesame oil",
+						"1 package square wonton wrappers",
+						"1/4 c. water"
+					],
+					"for the soup": [
+						"4 c. chicken broth",
+						"2 pieces of peeled ginger",
+						"2 tsp. soy sauce",
+						"2 garlic cloves, smashed",
+						"1/4 tsp. sesame oil",
+						"2 tbsp. Sliced green onions, for garnish"
+					]
+				}
+			],
+			"directions": [
+				{
+					"step-1": "In a large bowl, mix pork, soy sauce, chives, vinegar, cornstarch, ginger, garlic, red pepper flakes and sesame oil until fully incorporated",
+					"step-2": "Using your finger, wet the edges of wonton wrapper with water. Place half a tablespoon of pork filling in the center of the wonton wrapper. Fold wonton in half diagonally to create a triangle, and seal the edges. Fold the two identical corners in on each other and press again to seal. Repeat until all wonton wrappers are filled.",
+					"step-3": "Bring all soup ingredients to a boil. Simmer on low for 10 minutes, then remove ginger and garlic cloves and bring it back to a boil. Lower in wontons and cook for 10 minutes more. Serve into bowls and garnish with green onions."
+				}
+			],
+			"yields": "4 servings",
+			"prep-time": "10 minutes",
+			"total-time": "30 minutes"
+		}
+	]
+}
