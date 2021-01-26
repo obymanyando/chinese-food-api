@@ -1,0 +1,28 @@
+{
+	"name": "chinese-food-api",
+	"version": "1.0.0",
+	"description": "chinese food home recipes",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/obymanyando/chinese-food-api.git"
+	},
+	"keywords": [
+		"chinese",
+		"food",
+		"recipes"
+	],
+	"author": "Oby Manyando",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/obymanyando/chinese-food-api/issues"
+	},
+	"homepage": "https://github.com/obymanyando/chinese-food-api#readme",
+	"dependencies": {
+		"json-server": "^0.16.3"
+	}
+}
